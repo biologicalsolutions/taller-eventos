@@ -1,11 +1,11 @@
 function funcionSaludo(){
-    alert ("Hola!");
+    alert ("Saludos Campeón");
 }
 let btn = document.getElementById("btn");
 let miDiv = document.getElementById('miDiv');
 
 miDiv.addEventListener("click", function() {
-    alert("Hola! Soy el div");
+    alert("Creo que soy el div, pero no lo puedoa segurar");
 });
 
 /*Lo que hago con este método es evitar que el alert del div
