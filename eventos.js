@@ -5,7 +5,7 @@ let btn = document.getElementById("btn");
 let miDiv = document.getElementById('miDiv');
 
 miDiv.addEventListener("click", function() {
-    alert("Creo que soy el div, pero no lo puedoa segurar");
+    alert("Creo que soy el div, pero no lo puedo asegurar");
 });
 
 /*Lo que hago con este método es evitar que el alert del div
